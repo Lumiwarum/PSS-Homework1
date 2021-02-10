@@ -49,36 +49,57 @@ Here you can see some examples of outputs for a given inputs
 ### input
 
 > some text, text. another one text. That should be also a text
-3
-text
-innopolis
-some
+
+>3
+
+>text
+
+>innopolis
+
+>some
 
 ### output
 
 > 3
-some TEXT, TEXT.
-another one TEXT.
-That should be also a TEXT
-0
-1
-SOME text, text.
+
+>some TEXT, TEXT.
+
+>another one TEXT.
+
+>That should be also a TEXT
+
+>0
+
+>1
+
+>SOME text, text.
 
 ### input
 
 > war is peace. freedom is slavery. ignorance is strength.
-3
-war
-is
-slavery
+
+>3
+
+>war
+
+>is
+
+>slavery
 
 ### output
 
 > 1
+
 > WAR is peace.
-3
-war IS peace.
-freedom IS slavery.
-ignorance IS strength.
-1
-freedom is SLAVERY.
+
+>3
+
+>war IS peace.
+
+>freedom IS slavery.
+
+>ignorance IS strength.
+
+>1
+
+>freedom is SLAVERY.
