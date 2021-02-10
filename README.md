@@ -75,7 +75,7 @@ slavery
 ### output
 
 > 1
->WAR is peace.
+> WAR is peace.
 3
 war IS peace.
 freedom IS slavery.
